@@ -17,7 +17,7 @@ A very simple app to track your expenses and savings
 - Typescript
 - Next.js
 - TailwindCSS
-- Planetscale
+- PlanetScale
 - Prisma ORM
 - Headless UI
 - Auth0
